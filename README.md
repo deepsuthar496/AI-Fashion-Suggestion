@@ -1,6 +1,6 @@
 # Fashion Inspiration
 
-This Streamlit web application allows users to upload an image and receive captions generated for the image using a BLIP (Bootstrapped Language Image Pre-training) model. It also provides an option to generate fashion variation ideas based on the caption using the OpenAI API and generate an image based on the fashion variation idea.
+This Streamlit web application allows users to upload an image and receive captions generated for the image using a BLIP (Bootstrapped Language Image Pre-training) model. It also provides an option to generate fashion variation ideas based on the caption using the OpenAI API and generate an image based on the fashion variation idea. ( This Project is For lablab.ai hackathon )
 
 ## Installation and Dependencies
 
